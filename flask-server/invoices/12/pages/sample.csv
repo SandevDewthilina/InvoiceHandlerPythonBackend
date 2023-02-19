@@ -1,0 +1,22 @@
+,0,1,2,3,4,5,6,7,8,9,10,11
+0,ID,Name,Last Name,Age,Gender,City,State,,Occupation,Salary,,Hire Date
+1,,,,,,,,,,,2020-01-1,2020-01-1
+2,1,Alice,Johnson,29,Female,New York,NY,,Accountant,"$70,000",,
+3,,,,,,,,,,,5,
+4,,,,,,Los,,Marketing,Marketing,,2018-05-0,2018-05-0
+5,2,Bob,Smith,43,Male,,CA,,,"$100,000",,
+6,,,,,,Angeles,,Manager,Manager,,8,
+7,,,,,,,,Software,Software,,2019-09-0,2019-09-0
+8,3,Carla,Brown,25,Female,Chicago,IL,,,"$85,000",,
+9,,,,,,,,,Developer,,3,
+10,,,,,,,,Project,Project,,2017-12-2,2017-12-2
+11,4,David,Lee,38,Male,Houston,TX,,,"$95,000",,
+12,,,,,,,,,Manager,,2,
+13,,Emily,,,,San,,Graphic,Graphic,,2021-02-0,2021-02-0
+14,5,Emily,Davis,31,Female,,CA,,,"$60,000",,
+15,,Emily,,,,Diego,,Designer,Designer,,1,
+16,,,,,,,,Sales,Sales,,,
+17,,,,,,,,,,,2016-07-1,2016-07-1
+18,6,Frank,Wilson,46,Male,Atlanta,GA,,Representativ,"$80,000",,
+19,,,,,,,,,,,0,
+20,,,,,,,,e,,,,
